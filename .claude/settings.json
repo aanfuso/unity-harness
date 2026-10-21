@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git status *)",
+      "Bash(git log *)",
+      "Bash(git diff *)",
+      "Bash(git branch --show-current)",
+      "Bash(gh pr view *)",
+      "Bash(gh pr list *)",
+      "Bash(unity cmd recompile_status *)",
+      "Bash(unity cmd console_status *)",
+      "Bash(unity cmd test_status *)",
+      "Bash(unity list *)"
+    ]
+  }
+}
